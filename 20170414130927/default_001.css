@@ -1,0 +1,118 @@
+/* ::::: http://www.wsfxfkls.com/style/other.css ::::: */
+
+/* ::::: http://www.wsfxfkls.com/style/base.css ::::: */
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, hr, fieldset, input, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: medium none; }
+ol, ul { list-style: outside none none; margin: 0px; }
+a { text-decoration: none; color: rgb(51, 51, 51); }
+a:hover { cursor: pointer; color: rgb(205, 47, 47); }
+body { font-size: 14px; line-height: 24px; text-align: left; color: rgb(51, 51, 51); background: transparent url('bg_01.jpg') no-repeat fixed center top; }
+html, html > body { margin: 0px; }
+.clearfix::after { visibility: hidden; display: block; font-size: 0px; content: " "; clear: both; height: 0px; }
+.clearfix {  }
+* { padding: 0px; margin: 0px; }
+#Layer1 { position: absolute; width: 50px; height: 50px; z-index: 2; }
+#Layer2 { position: absolute; left: 0px; top: 52px; width: 190px; min-height: 1034px; z-index: 9; }
+#Layer4 { position: relative; left: 1174px; top: 52px; width: 25px; min-height: 1034px; z-index: 3; }
+.top { width: 1200px; height: 53px; background: transparent url('i3_02.jpg') no-repeat scroll center center; text-align: right; margin: 0px auto; position: fixed; top: 0px; z-index: 5; }
+.top2 { margin-right: 50px; margin-top: 24px; }
+.top2 a { margin-left: 10px; }
+.m2_rihgt { width: 25px; min-height: 1034px; position: fixed; background: transparent url('i1_03.jpg') no-repeat scroll right top; margin-top: 10px; }
+.m2_left { width: 187px; min-height: 1034px; background: transparent url('i1_06.jpg') no-repeat scroll center top; text-align: left; position: fixed; }
+.logo { width: 100%; text-align: center; padding: 5px 0px; margin-left: 3px; }
+.top_wenzi { width: 100%; text-align: center; }
+.top_wenzi h1 { font-size: 20px; line-height: 30px; font-family: "微软雅黑"; font-weight: bold; color: rgb(36, 34, 27); text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.top_wenzi span { font-size: 15px; line-height: 30px; font-family: "微软雅黑"; color: rgb(36, 34, 27); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu { width: 100%; margin-top: 12px; background: transparent url('libg.png') no-repeat scroll center top; }
+.menu .nLi { width: 187px; height: 47px; padding-top: 5px; text-align: center; cursor: pointer; }
+.menu .nLi:hover { background: transparent url('lihover.png') no-repeat scroll center center; }
+.menu li .bszt { width: 100%; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu li .bszz { width: 100%; line-height: 14px; padding-bottom: 10px; font-family: "Arial"; font-size: 12px; color: rgb(106, 102, 79); float: left; background: transparent url('libg.png') no-repeat scroll center bottom; }
+.menu li:hover .bszz { color: rgb(123, 61, 47); }
+.menu li:hover .bszt { color: rgb(99, 23, 23); }
+.fw_dh { width: 187px; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-align: center; margin-top: 10px; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.fw_dh span { width: 100%; float: left; font-family: "微软雅黑"; font-size: 16px; font-weight: bold; color: rgb(57, 52, 26); text-shadow: 2px 1px 1px rgb(194, 189, 167); }
+#cd { position: absolute; left: 140px; top: 115px; width: 146px; height: 136px; z-index: 999; display: none; }
+#layer_left { width: 11px; height: 230px; background: transparent url('bb1_07.png') no-repeat scroll center bottom; float: left; }
+#layer_right { width: 115px; height: 420px; float: left; }
+.xl_top { background: transparent url('bb1_08.png') repeat scroll 0% 0%; width: 115px; height: 10px; }
+.xl_main { background: transparent url('bb1_14.png') repeat-y scroll 0% 0%; line-height: 30px; font-family: "微软雅黑"; font-size: 12px; color: rgb(255, 255, 255); width: 115px; overflow: auto; text-align: center; }
+.xl_main a { color: rgb(255, 255, 255); text-decoration: none; }
+.xl_main a:hover { color: rgb(255, 192, 0); }
+.xl_foot { background: transparent url('bb1_18.png') repeat scroll 0% 0%; width: 115px; height: 14px; }
+.foot { width: 100%; background: rgb(65, 65, 65) none repeat scroll 0% 0%; float: left; }
+.foot2 { width: 90%; min-height: 50px; margin: 0px auto; font-family: "新宋体"; font-weight: normal; text-align: center; line-height: 25px; padding: 15px; font-size: 12px; color: rgb(160, 160, 160); }
+.foot2 a { font-family: "新宋体"; font-weight: normal; font-size: 12px; color: rgb(160, 160, 160); letter-spacing: 1pt; }
+.foot2 a:hover { color: rgb(99, 23, 23); }
+#other { width: 1200px; margin: 0px auto; }
+.otherbox { width: 1200px; margin: 0px auto 30px; background: transparent url('other_nrbg.jpg') repeat-y scroll 0% 0%; border-bottom: 0px solid rgb(204, 204, 204); }
+#other_fl { width: 1200px; height: 32px; line-height: 32px; font-size: 14px; float: left; padding: 10px 0px; color: rgb(51, 51, 51); }
+#other_fl span { padding: 0px 5px 0px 0px; }
+#other_fl font { font-size: 16px; padding: 0px 0px 0px 5px; }
+.fla { color: rgb(51, 51, 51); }
+.other_left { width: 280px; float: left; font-family: "微软雅黑"; }
+.other_left1 { width: 100%; float: left; background: rgb(137, 39, 16) none repeat scroll 0% 0%; height: 75px; line-height: 75px; text-indent: 25px; font-size: 18px; color: rgb(255, 255, 255); }
+.other_left ul { width: 240px; float: left; display: inline; overflow: hidden; padding: 10px 0px 100px; font-size: 14px; }
+.other_left ul li { width: 100%; float: left; display: block; overflow: hidden; font-size: 18px; text-indent: 25px; height: 50px; line-height: 50px; border-bottom: 1px solid rgb(204, 204, 204); }
+.lfetnow { width: 100%; height: 50px; display: block; color: rgb(205, 47, 47); }
+.other_left ul li a:hover { width: 100%; height: 50px; color: rgb(205, 47, 47); }
+#other_right { width: 100%; float: left; margin: 0px 0px 20px; }
+#other_rightnr { padding-bottom: 15px; margin: 0px auto; color: rgb(51, 51, 51); width: 90%; }
+#leave_mess { width: 100%; margin-top: 10px; display: inline; font-family: "微软雅黑"; float: left; }
+.clearfix {  }
+fieldset, img { border: medium none; }
+.otherbox { width: 1200px; overflow: auto; height: auto; background: rgb(245, 245, 245) none repeat scroll 0% 0%; margin: 10px auto 20px; }
+.other_left1 { width: 100%; float: left; background: rgb(137, 39, 16) none repeat scroll 0% 0%; height: 75px; line-height: 75px; text-indent: 25px; font-size: 18px; color: rgb(255, 255, 255); }
+.lfetnow { width: 279px; height: 35px; background: transparent url('neiylbbg2.jpg') no-repeat scroll 0% 0%; float: left; font-family: "新宋体"; font-size: 14px; color: rgb(255, 255, 255); text-indent: 35px; line-height: 35px; }
+.fla { color: rgb(113, 113, 113); }
+.fla:hover { color: rgb(185, 47, 29); }
+.fla { color: rgb(113, 113, 113); }
+.fla:hover { color: rgb(185, 47, 29); }
+/* ::::: http://www.wsfxfkls.com/style/base.css ::::: */
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, hr, fieldset, input, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: medium none; }
+ol, ul { list-style: outside none none; margin: 0px; }
+a { text-decoration: none; color: rgb(51, 51, 51); }
+a:hover { cursor: pointer; color: rgb(205, 47, 47); }
+body { font-size: 14px; line-height: 24px; text-align: left; color: rgb(51, 51, 51); background: transparent url('bg_01.jpg') no-repeat fixed center top; }
+html, html > body { margin: 0px; }
+.clearfix::after { visibility: hidden; display: block; font-size: 0px; content: " "; clear: both; height: 0px; }
+.clearfix {  }
+* { padding: 0px; margin: 0px; }
+#Layer1 { position: absolute; width: 50px; height: 50px; z-index: 2; }
+#Layer2 { position: absolute; left: 0px; top: 52px; width: 190px; min-height: 1034px; z-index: 9; }
+#Layer4 { position: relative; left: 1174px; top: 52px; width: 25px; min-height: 1034px; z-index: 3; }
+.top { width: 1200px; height: 53px; background: transparent url('i3_02.jpg') no-repeat scroll center center; text-align: right; margin: 0px auto; position: fixed; top: 0px; z-index: 5; }
+.top2 { margin-right: 50px; margin-top: 24px; }
+.top2 a { margin-left: 10px; }
+.m2_rihgt { width: 25px; min-height: 1034px; position: fixed; background: transparent url('i1_03.jpg') no-repeat scroll right top; margin-top: 10px; }
+.m2_left { width: 187px; min-height: 1034px; background: transparent url('i1_06.jpg') no-repeat scroll center top; text-align: left; position: fixed; }
+.logo { width: 100%; text-align: center; padding: 5px 0px; margin-left: 3px; }
+.top_wenzi { width: 100%; text-align: center; }
+.top_wenzi h1 { font-size: 20px; line-height: 30px; font-family: "微软雅黑"; font-weight: bold; color: rgb(36, 34, 27); text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.top_wenzi span { font-size: 15px; line-height: 30px; font-family: "微软雅黑"; color: rgb(36, 34, 27); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu { width: 100%; margin-top: 12px; background: transparent url('libg.png') no-repeat scroll center top; }
+.menu .nLi { width: 187px; height: 47px; padding-top: 5px; text-align: center; cursor: pointer; }
+.menu .nLi:hover { background: transparent url('lihover.png') no-repeat scroll center center; }
+.menu li .bszt { width: 100%; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu li .bszz { width: 100%; line-height: 14px; padding-bottom: 10px; font-family: "Arial"; font-size: 12px; color: rgb(106, 102, 79); float: left; background: transparent url('libg.png') no-repeat scroll center bottom; }
+.menu li:hover .bszz { color: rgb(123, 61, 47); }
+.menu li:hover .bszt { color: rgb(99, 23, 23); }
+.fw_dh { width: 187px; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-align: center; margin-top: 10px; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.fw_dh span { width: 100%; float: left; font-family: "微软雅黑"; font-size: 16px; font-weight: bold; color: rgb(57, 52, 26); text-shadow: 2px 1px 1px rgb(194, 189, 167); }
+#cd { position: absolute; left: 140px; top: 115px; width: 146px; height: 136px; z-index: 999; display: none; }
+#layer_left { width: 11px; height: 230px; background: transparent url('bb1_07.png') no-repeat scroll center bottom; float: left; }
+#layer_right { width: 115px; height: 420px; float: left; }
+.xl_top { background: transparent url('bb1_08.png') repeat scroll 0% 0%; width: 115px; height: 10px; }
+.xl_main { background: transparent url('bb1_14.png') repeat-y scroll 0% 0%; line-height: 30px; font-family: "微软雅黑"; font-size: 12px; color: rgb(255, 255, 255); width: 115px; overflow: auto; text-align: center; }
+.xl_main a { color: rgb(255, 255, 255); text-decoration: none; }
+.xl_main a:hover { color: rgb(255, 192, 0); }
+.xl_foot { background: transparent url('bb1_18.png') repeat scroll 0% 0%; width: 115px; height: 14px; }
+.foot { width: 100%; background: rgb(65, 65, 65) none repeat scroll 0% 0%; float: left; }
+.foot2 { width: 90%; min-height: 50px; margin: 0px auto; font-family: "新宋体"; font-weight: normal; text-align: center; line-height: 25px; padding: 15px; font-size: 12px; color: rgb(160, 160, 160); }
+.foot2 a { font-family: "新宋体"; font-weight: normal; font-size: 12px; color: rgb(160, 160, 160); letter-spacing: 1pt; }
+.foot2 a:hover { color: rgb(99, 23, 23); }
+/* ::::: http://images.wsfxfkls.com/uploadpic/common/FuWu/FuWu.css ::::: */
+

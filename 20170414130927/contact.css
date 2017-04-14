@@ -1,0 +1,131 @@
+/* ::::: http://www.wsfxfkls.com/style/other.css ::::: */
+
+/* ::::: http://www.wsfxfkls.com/style/base.css ::::: */
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, hr, fieldset, input, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: medium none; }
+ol, ul { list-style: outside none none; margin: 0px; }
+a { text-decoration: none; color: rgb(51, 51, 51); }
+a:hover { cursor: pointer; color: rgb(205, 47, 47); }
+body { font-size: 14px; line-height: 24px; text-align: left; color: rgb(51, 51, 51); background: transparent url('bg_01.jpg') no-repeat fixed center top; }
+html, html > body { margin: 0px; }
+.clearfix::after { visibility: hidden; display: block; font-size: 0px; content: " "; clear: both; height: 0px; }
+* { padding: 0px; margin: 0px; }
+#Layer1 { position: absolute; width: 50px; height: 50px; z-index: 2; }
+#Layer2 { position: absolute; left: 0px; top: 52px; width: 190px; min-height: 1034px; z-index: 9; }
+#Layer3 { position: absolute; left: 187px; top: 52px; width: 988px; min-height: 900px; z-index: 2; background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+#Layer4 { position: relative; left: 1174px; top: 52px; width: 25px; min-height: 1034px; z-index: 3; }
+.main { width: 1200px; text-align: center; margin: 0px auto; height: 500px; }
+.top { width: 1200px; height: 53px; background: transparent url('i3_02.jpg') no-repeat scroll center center; text-align: right; margin: 0px auto; position: fixed; top: 0px; z-index: 5; }
+.top2 { margin-right: 50px; margin-top: 24px; }
+.top2 a { margin-left: 10px; }
+.m2_rihgt { width: 25px; min-height: 1034px; position: fixed; background: transparent url('i1_03.jpg') no-repeat scroll right top; margin-top: 10px; }
+#banner { width: 990px; position: relative; overflow: hidden; z-index: 99; }
+.m2_left { width: 187px; min-height: 1034px; background: transparent url('i1_06.jpg') no-repeat scroll center top; text-align: left; position: fixed; }
+.logo { width: 100%; text-align: center; padding: 5px 0px; margin-left: 3px; }
+.top_wenzi { width: 100%; text-align: center; }
+.top_wenzi h1 { font-size: 20px; line-height: 30px; font-family: "微软雅黑"; font-weight: bold; color: rgb(36, 34, 27); text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.top_wenzi span { font-size: 15px; line-height: 30px; font-family: "微软雅黑"; color: rgb(36, 34, 27); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu { width: 100%; margin-top: 12px; background: transparent url('libg.png') no-repeat scroll center top; }
+.menu .nLi { width: 187px; height: 47px; padding-top: 5px; text-align: center; cursor: pointer; }
+.menu .nLi:hover { background: transparent url('lihover.png') no-repeat scroll center center; }
+.menu li .bszt { width: 100%; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu li .bszz { width: 100%; line-height: 14px; padding-bottom: 10px; font-family: "Arial"; font-size: 12px; color: rgb(106, 102, 79); float: left; background: transparent url('libg.png') no-repeat scroll center bottom; }
+.menu li:hover .bszz { color: rgb(123, 61, 47); }
+.menu li:hover .bszt { color: rgb(99, 23, 23); }
+.fw_dh { width: 187px; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-align: center; margin-top: 10px; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.fw_dh span { width: 100%; float: left; font-family: "微软雅黑"; font-size: 16px; font-weight: bold; color: rgb(57, 52, 26); text-shadow: 2px 1px 1px rgb(194, 189, 167); }
+#cd { position: absolute; left: 140px; top: 115px; width: 146px; height: 136px; z-index: 999; display: none; }
+#layer_left { width: 11px; height: 230px; background: transparent url('bb1_07.png') no-repeat scroll center bottom; float: left; }
+#layer_right { width: 115px; height: 420px; float: left; }
+.xl_top { background: transparent url('bb1_08.png') repeat scroll 0% 0%; width: 115px; height: 10px; }
+.xl_main { background: transparent url('bb1_14.png') repeat-y scroll 0% 0%; line-height: 30px; font-family: "微软雅黑"; font-size: 12px; color: rgb(255, 255, 255); width: 115px; overflow: auto; text-align: center; }
+.xl_main a { color: rgb(255, 255, 255); text-decoration: none; }
+.xl_main a:hover { color: rgb(255, 192, 0); }
+.xl_foot { background: transparent url('bb1_18.png') repeat scroll 0% 0%; width: 115px; height: 14px; }
+.box_main { width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%; z-index: 9; }
+.box_main01 { width: 988px; min-height: 850px; margin: 0px auto; padding-top: 10px; }
+.fla { color: rgb(51, 51, 51); }
+.flnow { color: rgb(205, 47, 47); }
+#contact_us_1 { width: 100%; margin: 10px auto 0px; line-height: 25px; font-size: 14px; }
+fieldset, img { border: medium none; }
+.other_right { width: 90%; height: 60px; margin: 0px auto; border-bottom: 5px solid rgb(227, 232, 233); }
+.other_right3 { width: 113px; height: 60px; line-height: 60px; float: left; border-bottom: 5px solid rgb(44, 69, 109); }
+.other_right3 span { font-family: "微软雅黑"; font-size: 24px; color: rgb(44, 69, 109); }
+.other_fl { height: 60px; float: right; font-family: "新宋体"; line-height: 65px; font-size: 12px; text-indent: 30px; color: rgb(113, 113, 113); }
+.other_fl font { font-size: 14px; color: rgb(113, 113, 113); padding: 5px 0px 0px 5px; }
+.fla { color: rgb(113, 113, 113); }
+.fla:hover { color: rgb(185, 47, 29); }
+.flnow { color: rgb(113, 113, 113); }
+.flnow:hover { color: rgb(185, 47, 29); }
+.other_fl { height: 60px; float: right; font-family: "新宋体"; line-height: 65px; font-size: 12px; text-indent: 30px; color: rgb(113, 113, 113); }
+.other_fl font { font-size: 14px; color: rgb(113, 113, 113); padding: 5px 0px 0px 5px; }
+.fla { color: rgb(113, 113, 113); }
+.fla:hover { color: rgb(185, 47, 29); }
+.flnow { color: rgb(113, 113, 113); }
+.flnow:hover { color: rgb(185, 47, 29); }
+.other_right_nr { width: 90%; min-height: 500px; background: transparent url('list01.png') repeat-y scroll center center; text-align: left; margin: 15px auto; }
+.foot3 { width: 100%; background: rgb(236, 236, 236) none repeat scroll 0% 0%; float: left; }
+.foot3_2 { width: 90%; min-height: 50px; margin: 0px auto; font-family: "新宋体"; font-weight: normal; text-align: center; line-height: 25px; padding: 15px; font-size: 12px; color: rgb(87, 87, 87); }
+.foot3_2 a { font-family: "新宋体"; font-weight: normal; font-size: 12px; color: rgb(87, 87, 87); letter-spacing: 1pt; }
+.foot3_2 a:hover { color: rgb(99, 23, 23); }
+/* ::::: http://www.wsfxfkls.com/style/base.css ::::: */
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, hr, fieldset, input, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: medium none; }
+ol, ul { list-style: outside none none; margin: 0px; }
+a { text-decoration: none; color: rgb(51, 51, 51); }
+a:hover { cursor: pointer; color: rgb(205, 47, 47); }
+body { font-size: 14px; line-height: 24px; text-align: left; color: rgb(51, 51, 51); background: transparent url('bg_01.jpg') no-repeat fixed center top; }
+html, html > body { margin: 0px; }
+.clearfix::after { visibility: hidden; display: block; font-size: 0px; content: " "; clear: both; height: 0px; }
+* { padding: 0px; margin: 0px; }
+#Layer1 { position: absolute; width: 50px; height: 50px; z-index: 2; }
+#Layer2 { position: absolute; left: 0px; top: 52px; width: 190px; min-height: 1034px; z-index: 9; }
+#Layer3 { position: absolute; left: 187px; top: 52px; width: 988px; min-height: 900px; z-index: 2; background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+#Layer4 { position: relative; left: 1174px; top: 52px; width: 25px; min-height: 1034px; z-index: 3; }
+.main { width: 1200px; text-align: center; margin: 0px auto; height: 500px; }
+.top { width: 1200px; height: 53px; background: transparent url('i3_02.jpg') no-repeat scroll center center; text-align: right; margin: 0px auto; position: fixed; top: 0px; z-index: 5; }
+.top2 { margin-right: 50px; margin-top: 24px; }
+.top2 a { margin-left: 10px; }
+.m2_rihgt { width: 25px; min-height: 1034px; position: fixed; background: transparent url('i1_03.jpg') no-repeat scroll right top; margin-top: 10px; }
+#banner { width: 990px; position: relative; overflow: hidden; z-index: 99; }
+.m2_left { width: 187px; min-height: 1034px; background: transparent url('i1_06.jpg') no-repeat scroll center top; text-align: left; position: fixed; }
+.logo { width: 100%; text-align: center; padding: 5px 0px; margin-left: 3px; }
+.top_wenzi { width: 100%; text-align: center; }
+.top_wenzi h1 { font-size: 20px; line-height: 30px; font-family: "微软雅黑"; font-weight: bold; color: rgb(36, 34, 27); text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.top_wenzi span { font-size: 15px; line-height: 30px; font-family: "微软雅黑"; color: rgb(36, 34, 27); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu { width: 100%; margin-top: 12px; background: transparent url('libg.png') no-repeat scroll center top; }
+.menu .nLi { width: 187px; height: 47px; padding-top: 5px; text-align: center; cursor: pointer; }
+.menu .nLi:hover { background: transparent url('lihover.png') no-repeat scroll center center; }
+.menu li .bszt { width: 100%; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.menu li .bszz { width: 100%; line-height: 14px; padding-bottom: 10px; font-family: "Arial"; font-size: 12px; color: rgb(106, 102, 79); float: left; background: transparent url('libg.png') no-repeat scroll center bottom; }
+.menu li:hover .bszz { color: rgb(123, 61, 47); }
+.menu li:hover .bszt { color: rgb(99, 23, 23); }
+.fw_dh { width: 187px; font-family: "微软雅黑"; font-size: 14px; color: rgb(57, 52, 26); font-weight: bold; text-align: center; margin-top: 10px; text-shadow: 1px 1px 1px rgb(194, 189, 167); }
+.fw_dh span { width: 100%; float: left; font-family: "微软雅黑"; font-size: 16px; font-weight: bold; color: rgb(57, 52, 26); text-shadow: 2px 1px 1px rgb(194, 189, 167); }
+#cd { position: absolute; left: 140px; top: 115px; width: 146px; height: 136px; z-index: 999; display: none; }
+#layer_left { width: 11px; height: 230px; background: transparent url('bb1_07.png') no-repeat scroll center bottom; float: left; }
+#layer_right { width: 115px; height: 420px; float: left; }
+.xl_top { background: transparent url('bb1_08.png') repeat scroll 0% 0%; width: 115px; height: 10px; }
+.xl_main { background: transparent url('bb1_14.png') repeat-y scroll 0% 0%; line-height: 30px; font-family: "微软雅黑"; font-size: 12px; color: rgb(255, 255, 255); width: 115px; overflow: auto; text-align: center; }
+.xl_main a { color: rgb(255, 255, 255); text-decoration: none; }
+.xl_main a:hover { color: rgb(255, 192, 0); }
+.xl_foot { background: transparent url('bb1_18.png') repeat scroll 0% 0%; width: 115px; height: 14px; }
+.box_main { width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%; z-index: 9; }
+.box_main01 { width: 988px; min-height: 850px; margin: 0px auto; padding-top: 10px; }
+/* ::::: http://bdimg.share.baidu.com/static/api/css/slide_share.css?v=9c50d088.css ::::: */
+
+.bdshare-slide-button-box { height: 326px; position: fixed; overflow: visible; }
+.bdshare-slide-button-box .bdshare-slide-button { width: 24px; height: 88px; display: block; position: absolute; top: 58px; }
+.bdshare-slide-style-l0 .bdshare-slide-button { background: transparent url('l0.gif') no-repeat scroll 0px 0px; }
+.bdshare-slide-list-box { border: 1px solid rgb(233, 233, 233); text-align: left; overflow: hidden; background: rgb(246, 246, 246) none repeat scroll 0% 0%; }
+.bdshare-slide-top { height: 28px; color: rgb(98, 98, 98); overflow: hidden; font-weight: bold; font-size: 14px; line-height: 28px; padding: 0px 5px; }
+.bdshare-slide-list { padding: 5px 0px; margin: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; overflow-y: auto; overflow-x: hidden; }
+.bdshare-slide-list-ul { padding: 0px; margin: 0px; border: 0px none; list-style: outside none none; }
+.bdshare-slide-bottom { line-height: 25px; font-size: 12px; text-align: right; clear: both; height: 30px; }
+.bdshare-slide-bottom a { color: rgb(153, 153, 153); text-decoration: none; border: 0px none; float: right; }
+.bdshare-slide-bottom a:hover { color: rgb(0, 169, 224); }
+.bdshare-slide-list a, .bdshare-slide-bottom a { color: rgb(86, 86, 86); font: 12px/18px "瀹嬩綋"; display: block; background-image: url('icons_0_16.png'); background-repeat: no-repeat; padding: 5px 0px 5px 28px; text-decoration: none; border: 1px solid rgb(255, 255, 255); }
+.slide-more { background-position: 4px 5px; }
+.bdshare-slide-bottom .slide-more { border: medium none; margin-right: 10px; }
